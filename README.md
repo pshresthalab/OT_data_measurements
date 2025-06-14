@@ -1,4 +1,4 @@
-# OT_data_measurements
+# Shrestha-et-al-Nucleic Acids Research 2025
 This is a repository of codes to accompany the paper,
 
 Single-Molecule Mechanostructural Fingerprinting of Nucleic Acids Conformations
