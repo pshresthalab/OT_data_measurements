@@ -1,4 +1,4 @@
-# matlab_OT_data_extraction
+# matlab_OT_data_measurements
 This is a repository of codes to accompany the paper
 
 Single-Molecule Mechanostructural Fingerprinting of Nucleic Acids Conformations
